@@ -1,0 +1,15 @@
+{
+    "name": "Climber KPI",
+    "description": "KPI Tile",
+    "version": "1.6.1",
+    "license": "Copyright Climber AB no changes allowed, free to use",
+    "bundle": {
+        "id": "cl-self-service-extensions",
+        "name": "Climber Self-Service Extensions",
+        "description": "Climber Self-Service Extensions. Learn more at www.climberextensions.com."
+    },
+    "type": "visualization",
+    "icon": "kpi",
+    "preview": "preview.jpg",
+    "author": "Karl Fredberg Sjöstrand"
+}
